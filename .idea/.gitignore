@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/*.xml
+/codeStyles/*.xml
+../.idea
+../project/target/*
+../project/**
+../target
+
